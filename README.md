@@ -7,6 +7,8 @@ First install i3 because gnome sucks.
 
 `sudo apt instal i3`
 
+Then login to i3 and import `.bashrc` and the `i3` and `i3status` folders from the `.config` folder into the home directory.
+
 ### Packages to install
 - `sudo apt install acpi`
 - `sudo apt install arandr`
