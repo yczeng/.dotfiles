@@ -1,4 +1,12 @@
 # .dotfiles
+
+This is the setup for my ubuntu 20.04 system.
+
+### i3
+First install i3 because gnome sucks.
+
+`sudo apt instal i3`
+
 ### Packages to install
 - `sudo apt install acpi`
 - `sudo apt install arandr`
