@@ -12,6 +12,12 @@
 
 Next, install `nautilus-dropbox` with `sudo apt install nautilus-dropbox`
 
+### Installing Chrome
+
+`wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb`
+
+`sudo apt install ./google-chrome-stable_current_amd64.deb`
+
 ### Natural Scrolling
 I like natural scrolling. Change `/usr/share/X11/xorg.conf.d/40-libinput.conf`
 
