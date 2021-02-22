@@ -15,6 +15,7 @@ Also save the `wallpaper.jpg` file into the `Pictures` folder so that you can lo
 - `sudo apt install acpi`
 - `sudo apt install arandr`
 - `sudo apt install feh`
+- `sudo apt install thunar`
 
 ### Installing Dropbox
 
