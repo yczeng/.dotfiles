@@ -2,7 +2,7 @@
 
 This is the setup for my ubuntu 20.04 system.
 
-### i3
+### Leave Gnome
 First install i3 because gnome sucks.
 
 `sudo apt instal i3`
