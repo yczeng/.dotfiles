@@ -3,7 +3,14 @@
 - `sudo apt install acpi`
 - `sudo apt install arandr`
 - `sudo apt install feh`
-- `sudo apt install nautilus-dropbox`
+
+### Installing Dropbox
+
+***Make sure you sign into Dropbox on the web first!***
+
+`cd ~ && wget -O - "https://www.dropbox.com/download?plat=lnx.x86_64" | tar xzf -`
+
+Next, install `nautilus-dropbox` with `sudo apt install nautilus-dropbox`
 
 ### Natural Scrolling
 I like natural scrolling. Change `/usr/share/X11/xorg.conf.d/40-libinput.conf`
