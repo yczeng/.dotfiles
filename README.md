@@ -1,4 +1,6 @@
 # .dotfiles
+### Packages to install
+`sudo apt-get acpi arandr`
 
 ### Natural Scrolling
 I like natural scrolling. Change `/usr/share/X11/xorg.conf.d/40-libinput.conf`
