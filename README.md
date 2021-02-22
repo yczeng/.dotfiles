@@ -1,8 +1,9 @@
 # .dotfiles
 ### Packages to install
-- `sudo apt-get install acpi`
-- `sudo apt-get install arandr`
-- `sudo apt-get install feh`
+- `sudo apt install acpi`
+- `sudo apt install arandr`
+- `sudo apt install feh`
+- `sudo apt install nautilus-dropbox`
 
 ### Natural Scrolling
 I like natural scrolling. Change `/usr/share/X11/xorg.conf.d/40-libinput.conf`
