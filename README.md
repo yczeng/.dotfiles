@@ -5,7 +5,7 @@ This is the setup for my ubuntu 20.04 system.
 ### Leave Gnome
 First install i3 because gnome sucks.
 
-`sudo apt instal i3`
+`sudo apt install i3`
 
 Then login to i3 and import `.bashrc` and the `i3` and `i3status` folders from the `.config` folder into the home directory.
 
