@@ -12,10 +12,14 @@ Then login to i3 and import `.bashrc` and the `i3` and `i3status` folders from t
 Also save the `wallpaper.jpg` file into the `Pictures` folder so that you can look at a dope LOTR background for some Feng Shui.
 
 ### Packages to install
-- `sudo apt install acpi`
-- `sudo apt install arandr`
-- `sudo apt install feh`
-- `sudo apt install thunar`
+```
+sudo apt install acpi
+sudo apt install arandr
+sudo apt install feh
+sudo apt install thunar
+sudo snap install vlc
+sudo snap install spotify
+```
 
 ### Installing Dropbox
 
